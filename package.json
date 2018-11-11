@@ -1,0 +1,28 @@
+{
+  "name": "lydie-suelle-atelier-synthesis-finder-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Porinn/lydie-suelle-atelier-synthesis-finder-electron.git"
+  },
+  "author": "Porinn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Porinn/lydie-suelle-atelier-synthesis-finder-electron/issues"
+  },
+  "homepage": "https://github.com/Porinn/lydie-suelle-atelier-synthesis-finder-electron#readme",
+  "dependencies": {
+    "@material-ui/core": "^3.4.0",
+    "npm": "^6.4.1",
+    "react-select": "^2.1.1"
+  },
+  "devDependencies": {
+    "electron": "^3.0.8"
+  }
+}
